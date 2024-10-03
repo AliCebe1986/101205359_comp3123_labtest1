@@ -1,0 +1,11 @@
+{
+  "name": "101205359_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "Comp3123 Labtest1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Cebe",
+  "license": "ISC"
+}
